@@ -1,2 +1,10 @@
+-----
+
+このシステムは現在開発中です
+
+-----
+
 # Discord-Convoy_Server_Notification_System
 WindowsでホストされているETS2およびATSのコンボイサーバーの入退出通知を、Discordの指定されたチャンネルへ送信します。
+
+-----
