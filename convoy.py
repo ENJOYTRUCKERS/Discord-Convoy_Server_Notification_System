@@ -5,7 +5,7 @@ from discord.ext import tasks
 import discord.app_commands
 
 TOKEN = os.environ.get("DISCORD_BOT_TOKEN")
-CHANNEL_ID = 1420795090259148810
+CHANNEL_ID = [channelid]
 LOG_FILE = r"C:\Users\[username]\Documents\Euro Truck Simulator 2\server.log.txt"
 POLL_INTERVAL = 2  # 秒
 
